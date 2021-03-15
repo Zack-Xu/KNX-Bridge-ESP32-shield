@@ -1,6 +1,6 @@
 ## KNX-Bridge ESP32 Shield
 KNX-Bridge ESP32 Shield(hereinafter referred to as KNX-Shield) is a cheap method designed for the connetion between HomeAssistant and KNX.
-Aslo you may use it as an IP-router independently.But it works better with HomeAssistant.check here if you are going to use the shield with HomeAssistant.
+Aslo you may use it as an IP-router independently.But it works better with HomeAssistant.[check here if you are going to use the shield with HomeAssistant.](https://github.com/Zack-Xu/KNX-shield-homeassistant)
 
 
 ### Core components
