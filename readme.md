@@ -2,6 +2,7 @@
 KNX-Bridge ESP32 Shield(hereinafter referred to as KNX-Shield) is a cheap method designed for the connetion between HomeAssistant and KNX.
 Aslo you may use it as an IP-router independently.But it works better with HomeAssistant.[check here if you are going to use the shield with HomeAssistant.](https://github.com/Zack-Xu/KNX-shield-homeassistant)
 
+<img src="images/knx_wifilink3.png">
 
 ### Core components
 KNX-Shield is basicly based on `NCN5120` , which is a receiver-transmitter IC suitbale for use in KNX twisted pair networks(KNX TP1-2556).
@@ -24,3 +25,8 @@ The KNX-shield is part of the IP router system ,you need xknx(a programs running
 There is two way to combine the software and the hardware ,one is by USB ,the onther is by wifi(you gonna connect the esp32 with the shield).
 
 By USB:
+knx_shield_RASP
+### Coming soon
+Designed for raspberry，with much more simple setting.Here comes RASP_KNX_Shield.Sure you can choose any kind of RPI to combine ，we still recommend 3B+，with enough power to run homeassistant and sweet Ethernet interface which it brings.
+
+<img src="images/knx_shield_RASP.png">
