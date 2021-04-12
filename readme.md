@@ -28,7 +28,7 @@ Switch No.1 controls whether the communication mode is `serial` or `analog`(on i
 The KNX-shield is part of the IP router system ,you need KNXD(a programs running on Linux) to compelet the IP-Router.
 There is two way to combine the software and the hardware ,one is by USB ,the onther is by wifi(you gonna connect the esp32 with the shield).
 
-<img src="images/line.png" width="50%">
+<img src="images/line.png" width="100%">
 
 ### Coming soon
 Designed for raspberrypi，with much more simple setting.Here comes RASP_KNX_Shield.Sure you can choose any kind of RPI to combine ，we still recommend 3B+，with enough power to run homeassistant and sweet Ethernet interface which it brings.
