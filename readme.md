@@ -3,7 +3,7 @@ KNX-Bridge ESP32 Shield(hereinafter referred to as KNX-Shield) is a cheap method
 Aslo you may use it as an IP-router independently.But it works better with HomeAssistant.
 
 <img src="images/knx_wifilink3.png" width="50%">
-
+啊啊
 ### Core components
 KNX-Shield is basicly based on `NCN5120` , which is a receiver-transmitter IC suitbale for use in KNX twisted pair networks(KNX TP1-2556).
 
