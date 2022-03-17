@@ -23,7 +23,7 @@ The two-position-dial-switch below the micro-usbport control the NCN5120 communi
 Switch No.1 controls whether the communication mode is `serial` or `analog`(on is analog), while switch No.2 controls whether the bandrate is `38400bps` or `19200bps`(on means 38400bps).
 <img src="images/Switch2.png" width="50%">
 
-### How to use
+### How to useSZDASD
 
 The KNX-shield is part of the IP router system ,you need KNXD(a programs running on Linux) to compelet the IP-Router.
 There is two way to combine the software and the hardware ,one is by USB ,the onther is by wifi(you gonna connect the esp32 with the shield).
